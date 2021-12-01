@@ -1,0 +1,26 @@
+k = 5, Sampling Size = 100000, input = forestCover_dataset.txt
+Preprocessing time :
+User time : 7.786000 seconds
+System time : 7786 milliseconds
+
+Query time : 
+User time : 0.168000 seconds
+System time : 168 milliseconds
+
+
+memoryUsage (bytes): 24808336
+
+
+Average Regret Ratio: 0.001225
+Sample sd: 0.003705
+No within SD: 8476
+70%: 0.000000
+80%: 0.000000
+90%: 0.003817
+95%: 0.009175
+99%: 0.019275
+Sample mrr: 0.055965
+Average number of points avoided: 9.375000
+Average number of users avoided: 97227.549020
+
+

@@ -1,0 +1,47 @@
+
+3
+java:S2386"Make this member "protected".(¬€¸ª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+i
+java:S3776>"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(œû¿Ø
+<
+java:S2386P"'Make member "samplePoints" "protected".(Êû“"
+h
+java:S3457¨"Q%n should be used in place of \n to produce the platform-specific line separator.(…Š…ô
+t	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(ĞÅÅüÿÿÿÿ
+\
+java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(ÎúèÚ8ŸˆËşÕ/
+m
+java:S1104"WMake memoryUsage a static final constant or non-public and provide accessors if needed.(ŠÓôÚ
+x
+java:S1104"]Make solutionSizeInput a static final constant or non-public and provide accessors if needed.(Ûâè½üÿÿÿÿ
+m
+java:S1104"WMake datasetSize a static final constant or non-public and provide accessors if needed.(ø¹—Ò
+s
+java:S1104"XMake datasetDimen a static final constant or non-public and provide accessors if needed.(ÒÉ€æùÿÿÿÿ
+q
+java:S1104"[Make sampleSizeInput a static final constant or non-public and provide accessors if needed.(£Îó
+s
+java:S1104"XMake samplePoints a static final constant or non-public and provide accessors if needed.(Ä¥–şùÿÿÿÿ
+t
+java:S1104"^Make utilityFuncSamples a static final constant or non-public and provide accessors if needed.(¬€¸ª
+G
+java:S1444"1Make this "public static memoryUsage" field final(ŠÓôÚ
+R
+java:S1444"7Make this "public static solutionSizeInput" field final(Ûâè½üÿÿÿÿ
+G
+java:S1444"1Make this "public static datasetSize" field final(ø¹—Ò
+M
+java:S1444"2Make this "public static datasetDimen" field final(ÒÉ€æùÿÿÿÿ
+K
+java:S1444"5Make this "public static sampleSizeInput" field final(£Îó
+M
+java:S1444"2Make this "public static samplePoints" field final(Ä¥–şùÿÿÿÿ
+N
+java:S1444"8Make this "public static utilityFuncSamples" field final(¬€¸ª
+k
+java:S2259÷"OA "NullPointerException" could be thrown; "worstPointPointer" is nullable here.(ñ¼€Ğúÿÿÿÿ
+_
+java:S3518„"CMake sure this expression can't be zero before doing this division.(ÈŞş‘şÿÿÿÿ
+^
+java:S2095H"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(Ó‰Ğ
